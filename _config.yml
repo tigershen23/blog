@@ -1,0 +1,18 @@
+#
+# This file contains configuration flags to customize your site
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+
+# Name of your site (displayed in the header)
+name: Tiger Shen
+
+# Short bio or description (displayed in the header)
+description: Student and Web Developer
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars0.githubusercontent.com/u/3682721?v=3
+
+baseurl: /blog
+
+paginate: 10 # pagination basted on number of posts
+exclude: ["Gemfile", "Gemfile.lock", "README.md", 'sass', 'watch.sh', 'style.scss'] # files to exclude
+

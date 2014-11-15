@@ -1,4 +1,10 @@
-blog
-====
+HTML5 Muffin chocchip steps
+============================
 
-Tiger's blog powered by Jekyll
+Run bundle install
+
+	bundle install
+
+Run jekyll
+
+	jekyll
