@@ -77,7 +77,7 @@ textarea {
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 20px;
     color: #333;
     background-color: #fff;
@@ -1472,7 +1472,7 @@ input[type="checkbox"], input[type="radio"] {
     background-color: #000;
 }
 main.container, main.content>.container {
-    width: 50em;
+    width: 42em;
 }
 @font-face {
     font-family: 'Noto Serif';
@@ -1564,7 +1564,7 @@ main.container, main.content>.container {
 }
 .post h2 {
     font-family: Georgia, "Times New Roman", Times, serif;
-    font-size: 5em;
+    font-size: 4.5em;
     padding: 1.5em 0 0.5em;
     letter-spacing: 0.05em;
 }
