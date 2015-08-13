@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_page
 title: "From AP's to Braintree: Learning to Code"
 date: "2015-08-12 17:04"
 ---

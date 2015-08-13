@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_page
 title: "From AP's to Braintree: Why I'm not Going to College Next Year"
 date: "2015-08-12 23:23"
 ---
