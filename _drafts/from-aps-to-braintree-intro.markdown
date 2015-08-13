@@ -1,26 +1,28 @@
 ---
 layout: post_page
-title: "From AP's to Braintree: Intro"
+title: "From AP's to Braintree: Part One"
 date: "2015-08-11 17:11"
 ---
 
-The fourteen months before my high school graduation in June were the craziest
+The fourteen months before my high school graduation in June were somethin' else. In March 2014, I was coming off a varsity basketball season where my team won the school's first league championship in recent memory. I was working out 3+ hours a day, maintaining straight A's in school, playing the French Horn in the band, and dabbling in web development on the side. I couldn't even conceptualize a future besides the one where I did the teenager thing for two more years, hopefully got accepted into a good college, which would hopefully lead to a job, and maybe attempted something entrepreneurial in the distant future.
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Over the next 400 days, a lot of very different stuff happened. I:
 
+* quit the basketball team, leaving something I'd spent 11 years, or 3/4, of my life working towards
+* programmed for 40 hours a week
+* held down an engineering internship at Caviar/Square
+* got an almost-perfect score on the ACT (one question off!)
+* graduated high school a year early by completing 12 full courses in 12 months (the normal amount would be 6), 10 of which were AP, Honors, or college level
+* applied to three colleges and 50+ jobs
+* and ultimately, landed an amazing position as a Software Engineer at Braintree Payments (owned by PayPal), where I'm excited to start next week.
 
+That's a lot! To get it all done, I was pulling regular 100-hour weeks, and unsurprisingly, it burned me way, way out. After a month or so of lovely R&R, I feel like writing about the whole thing. My main goal is to chronicle and organize my thoughts and experiences for future me. By doing so publicly, I hope to intrigue, entertain, and/or help some souls along the way. I plan on tackling my overall reflections, thoughts on college, how I improved as a programmer, what motivates me, how I stay(ed) productive, and anything else I can think of. 
 
--	Before: doing basketball, loving it
--	Stuff I did since:
-	-	graduate high school a year early by completing 12 courses for a total of 120 units, 10 of which were AP or college level
-	-	gotten an almost-perfect score on the ACT (one question off!)
-	-	holding down an engineering internship at Caviar
-	-	programmed at least 40 hours a week
-	-	applied to three colleges and 25+ jobs
-	-	and ultimately, landed an amazing position as a Software Engineer at Braintree Payments (owned by PayPal), where I'm super excited to start next week.
+I'll finish up with a little story from this time. Most of last year, my biggest goal was to get into Stanford University. It's no secret that many of the greatest minds and entrepreneurs of Silicon Valley and perhaps the world come from The Farm, and I wanted nothing more than a chance to continue that legacy. So, I studied hard for the ACT, poured 100 hours into my essays, worked with an admissions coach, and sent my [early action application](https://admission.stanford.edu/application/decision_process/restrictive.html) in with cautious optimism. I mean, I checked a lot of the boxes. Athletics, programming, music, academics, internships, standardized tests - all taken care of. I had as good of a chance as anyone else, right?
 
-Burned me out. Now, I want to write about it. Reflections, stories, takeaways, shoutouts, and resources that helped me.
+A month later, bam, I got rejected. That wasn't so fun. Was I sad and confused? Yes! Did I send them an angry letter saying why they'd made a mistake? Almost! Was I jealous of the people that had gotten in? A little! These are all very natural reactions to have, but the most important part is what I did after they had run their course. There was still work to do; I put on the Taylor Swift and powered through my remaining assignments, opportunities, and goals. 
 
-My main goals are to chronicle my experiences for the future, and to hopefully entertain or help some people by doing it publicly.
+Had I been accepted into Stanford, the most natural course of action would have been taking my foot off the gas and just waiting for college to start. Instead, as months went by and I felt better and better about my programming skills, I gave some job applications a shot for the summer, and maybe beyond. One thing led to another, and now I'm all set to start at a job that I would've otherwise only qualified for *after* graduating from college. Taking this big rejection and spinning it around to push myself even farther ended up being a tremendous boost to my character, productivity, and, well, life. Would ya look at that.
 
-Cheers, Tiger
+Until next time, folks. Remember to smile today :)
+
